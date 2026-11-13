@@ -1,0 +1,80 @@
+{
+  "Video_Title": "Aadi Perukku – Celebration of Life and Nature",
+  "Duration": "15 seconds",
+  "Aspect_Ratio": "16:9",
+  "Frame_Rate": "24 FPS",
+  "Style": "Ultra-realistic cinematic video, 4K",
+  "Subject": {
+    "Main_Subject": "A traditional Tamil family celebrating Aadi Perukku (Pathinettam Perukku)",
+    "People": "A beautiful Tamil woman wearing a richly coloured Kanchipuram silk saree with traditional gold jewellery, accompanied by her husband, elderly family members and children dressed in authentic South Indian traditional attire",
+    "Details": "Traditional brass lamps, fresh flowers, turmeric, kumkum, coconuts, bananas, betel leaves, colourful bangles and banana leaf offerings"
+  },
+  "Location": {
+    "Setting": "Beautiful banks of the sacred River Cauvery in Tamil Nadu",
+    "Environment": "Flowing river, lush green agricultural fields, coconut trees and traditional South Indian surroundings",
+    "Time": "Early morning golden sunrise",
+    "Cultural_Details": "Traditional kolam decorations, brass vessels, banana leaves and flower arrangements"
+  },
+  "Scenes": [
+    {
+      "Scene": 1,
+      "Duration": "0-3 seconds",
+      "Action": "A beautiful wide aerial establishing shot of the River Cauvery flowing peacefully. Golden sunlight reflects on the water. The camera slowly moves towards a traditional Tamil family gathered on the riverbank.",
+      "Camera": "Smooth cinematic aerial push-in"
+    },
+    {
+      "Scene": 2,
+      "Duration": "3-6 seconds",
+      "Action": "A Tamil woman in a beautiful Kanchipuram silk saree gently arranges flowers, turmeric, kumkum, coconuts and bananas on a banana leaf. She respectfully offers flowers to the flowing river.",
+      "Camera": "Medium cinematic shot transitioning into a detailed close-up"
+    },
+    {
+      "Scene": 3,
+      "Duration": "6-9 seconds",
+      "Action": "Family members pray with folded hands. Children smile joyfully. Another woman lights a traditional brass oil lamp. Capture authentic expressions and festive family interactions.",
+      "Camera": "Smooth cinematic tracking shot"
+    },
+    {
+      "Scene": 4,
+      "Duration": "9-12 seconds",
+      "Action": "Capture a beautiful slow-motion close-up of the woman releasing flower petals into the flowing Cauvery river. The petals float naturally on the water as golden sunlight creates sparkling reflections.",
+      "Camera": "Close-up slow-motion shot with shallow depth of field"
+    },
+    {
+      "Scene": 5,
+      "Duration": "12-15 seconds",
+      "Action": "A grand cinematic wide shot of the entire family celebrating Aadi Perukku together beside the river. The family smiles peacefully as the golden sunrise illuminates the beautiful surroundings.",
+      "Camera": "Slow cinematic pull-back, ending with a beautiful wide landscape composition"
+    }
+  ],
+  "Aesthetic": {
+    "Lighting": "Warm natural golden sunrise lighting",
+    "Colour_Palette": "Turmeric yellow, kumkum red, vibrant green, silk gold and earthy brown",
+    "Mood": "Divine, joyful, devotional, peaceful and culturally rich",
+    "Visual_Quality": "Photorealistic skin textures, realistic silk fabric, detailed traditional jewellery, natural human expressions and realistic water movement",
+    "Cinematography": "Professional DSLR cinematography, smooth camera transitions, cinematic depth of field and natural motion"
+  },
+  "Audio": {
+    "Background_Music": "Soft traditional South Indian devotional instrumental music",
+    "Ambient_Sounds": [
+      "Gentle flowing river water",
+      "Morning birdsong",
+      "Subtle temple bells"
+    ],
+    "Voiceover": "None"
+  },
+  "Continuity_Instructions": {
+    "Character_Consistency": "Maintain identical faces, clothing, saree colours, jewellery and physical appearances throughout all scenes.",
+    "Location_Consistency": "Keep the River Cauvery, riverbank, agricultural fields, coconut trees and surrounding landscape consistent throughout the video.",
+    "Prop_Consistency": "Keep traditional offerings, brass lamps, banana leaves and ritual vessels visually consistent between scenes.",
+    "Motion_Consistency": "Ensure natural, smooth human movements, realistic flowing water and consistent flower-petal movement.",
+    "Transition_Consistency": "Use seamless cinematic transitions. Avoid abrupt cuts, sudden changes in lighting or changes in character appearance."
+  },
+  "Restrictions": [
+    "Preserve authentic Tamil cultural traditions.",
+    "Maintain realistic human faces and natural body proportions.",
+    "Avoid distorted hands, extra fingers or unnatural facial expressions.",
+    "Avoid modern buildings, western clothing, random text and watermarks.",
+    "Do not change character appearances, clothing or jewellery between scenes."
+  ]
+}
