@@ -1,0 +1,37 @@
+{
+  "Subject": {
+    "main_subject": "A group of village people celebrating Aadi Perukku (Pathinettam Perukku)",
+    "people": "A Tamil woman dressed in a beautiful traditional Kanchipuram silk saree, accompanied by her family, wearing traditional South Indian attire",
+    "details": "Traditional brass lamps, flowers, turmeric, kumkum, coconuts, bananas, betel leaves and colourful bangles"
+  },
+  "Composition": {
+    "framing": "Wide cinematic composition with the family in the foreground and the flowing river in the background",
+    "camera_angle": "Eye-level perspective with a Top angle view",
+    "visual_hierarchy": "The village performing river worship is the focal point, with family members and traditional offerings arranged naturally around her",
+    "depth": "Beautiful layered composition with foreground offerings, people in the middle ground and the river and green landscape in the background"
+  },
+  "Action": {
+    "primary_action": "The group of pepole respectfully offers flowers and traditional offerings to the flowing river as part of Aadi Perukku celebrations",
+    "secondary_actions": [
+      "Village members praying with folded hands",
+      "Children enjoying the festive atmosphere",
+      "A woman lighting a traditional brass oil lamp"
+    ],
+    "atmosphere": "A joyful,  and Excotic celebration expressing gratitude for nature and water abundance"
+  },
+  "Location": {
+    "setting": "Banks of the sacred River Cauvery in Tamil Nadu",
+    "environment": "Flowing river with lush green agricultural fields, coconut trees and traditional South Indian surroundings",
+    "time": "Rainy morning with drizzles",
+    "cultural_details": "Traditional kolam decorations, banana leaves, brass vessels and flower arrangements"
+  },
+  "Aesthetic": {
+    "style": "Ultra-realistic cinematic photography",
+    "lighting": "Warm golden sunrise lighting with natural reflections on the river",
+    "colour_palette": "Rich traditional colours including turmeric yellow, kumkum red, vibrant green, silk gold and earthy brown",
+    "mood": "Divine, festive, authentic, peaceful and culturally rich",
+    "quality": "8K ultra-detailed, photorealistic textures, professional DSLR photography, natural skin tones, realistic fabric details",
+    "aspect_ratio": "16:9",
+    "restrictions": "Avoid cartoon effects, artificial-looking faces, distorted hands, modern buildings, western clothing and incorrect cultural or religious symbols"
+  }
+}
